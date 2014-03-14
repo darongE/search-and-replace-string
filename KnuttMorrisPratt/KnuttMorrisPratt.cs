@@ -52,52 +52,35 @@ namespace KMP
 
             int i = 0; // index for the text
             int j = 0; // index for the pattern
-            int k = 0;
 
             int m = pattern.Length;
             int n = text.Length;
-            while (n - k >= m)
+            for(i = 0; i < n && m > 0; i++)
             {
-                while (j < m && text[i] == pattern[j]) // while searching for a pattern
-                {
-                    i++; j++;
-                }
+                while (j > 0 && text[i] != pattern[j]) // while searching for a match, update with overlap
+                    j = overlaps[j];
+               
+                if (text[i] == pattern[j])
+                    j++;
 
                 if (j == m)
                 {
-                    replacementsIdxs.Add(k); // add the index of the beginning of the sucessfull matching with the pattern
+                    replacementsIdxs.Add(i - m + 1); // add the index of the beginning of the sucessfull matching with the pattern
+                    j = 0; // set the j to zero to avoid patterns inside patterns
                 }
-
-                if (j > 0 && overlaps[j - 1] > 0)
-                {
-                    k = i - overlaps[j - 1]; // re update the index representing the beginning of the comparison
-                }
-                else
-                {
-                    if (i == k)
-                    {
-                        i++;
-                    }
-                    k = i ;
-                }
-
-                if (j > 0)
-                {
-                    j = overlaps[j - 1];
-                }
-
             }
 
             return replacementsIdxs.ToArray();
         }
 
 
-        private String createStringWithReplacement(String originalStr, String replacement, int[] replacementsIdxs)
+        private String createStringWithReplacement(String originalStr, String pattern, String replacement, int[] replacementsIdxs)
         {
             String new_str = "";
 
             int n = originalStr.Length;
-            int m = replacement.Length;
+            int m = pattern.Length;
+            int w = replacement.Length;
 
             int i = 0;
             while (i < n)
@@ -123,7 +106,7 @@ namespace KMP
             int[] overlaps = calculateOverlaps(pattern);
             int[] replacementsIdxs = calculateReplacements(text, pattern, overlaps);
 
-            return createStringWithReplacement(text, replacement, replacementsIdxs);
+            return createStringWithReplacement(text, pattern, replacement, replacementsIdxs);
         }
 
     }

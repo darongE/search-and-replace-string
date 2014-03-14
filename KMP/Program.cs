@@ -16,7 +16,7 @@ namespace KMP
            // String pattern = "attataca";
 
             String text = "banana";
-            String pattern = "an";
+            String pattern = "ana";
 
             String result = kmp.replacePatternInString(text, pattern, "ol");
 
