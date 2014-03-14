@@ -1,0 +1,5 @@
+c:\users\fabiocarballo\documents\visual studio 2012\Projects\KnuttMorrisPratt\KnuttMorrisPratt\obj\Debug\KnuttMorrisPratt.csprojResolveAssemblyReference.cache
+c:\users\fabiocarballo\documents\visual studio 2012\Projects\KnuttMorrisPratt\KnuttMorrisPratt\bin\Debug\KnuttMorrisPratt.dll
+c:\users\fabiocarballo\documents\visual studio 2012\Projects\KnuttMorrisPratt\KnuttMorrisPratt\bin\Debug\KnuttMorrisPratt.pdb
+c:\users\fabiocarballo\documents\visual studio 2012\Projects\KnuttMorrisPratt\KnuttMorrisPratt\obj\Debug\KnuttMorrisPratt.dll
+c:\users\fabiocarballo\documents\visual studio 2012\Projects\KnuttMorrisPratt\KnuttMorrisPratt\obj\Debug\KnuttMorrisPratt.pdb
