@@ -1,0 +1,7 @@
+c:\users\fabiocarballo\documents\visual studio 2012\Projects\SearchAndReplace\SearchAndReplaceTests\obj\Debug\SearchAndReplaceTests.csprojResolveAssemblyReference.cache
+c:\users\fabiocarballo\documents\visual studio 2012\Projects\SearchAndReplace\SearchAndReplaceTests\bin\Debug\SearchAndReplaceTests.dll
+c:\users\fabiocarballo\documents\visual studio 2012\Projects\SearchAndReplace\SearchAndReplaceTests\bin\Debug\SearchAndReplaceTests.pdb
+c:\users\fabiocarballo\documents\visual studio 2012\Projects\SearchAndReplace\SearchAndReplaceTests\bin\Debug\SearchAndReplace.exe
+c:\users\fabiocarballo\documents\visual studio 2012\Projects\SearchAndReplace\SearchAndReplaceTests\bin\Debug\SearchAndReplace.pdb
+c:\users\fabiocarballo\documents\visual studio 2012\Projects\SearchAndReplace\SearchAndReplaceTests\obj\Debug\SearchAndReplaceTests.dll
+c:\users\fabiocarballo\documents\visual studio 2012\Projects\SearchAndReplace\SearchAndReplaceTests\obj\Debug\SearchAndReplaceTests.pdb

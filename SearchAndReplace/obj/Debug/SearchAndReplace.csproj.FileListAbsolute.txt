@@ -1,0 +1,5 @@
+c:\users\fabiocarballo\documents\visual studio 2012\Projects\SearchAndReplace\SearchAndReplace\bin\Debug\SearchAndReplace.exe.config
+c:\users\fabiocarballo\documents\visual studio 2012\Projects\SearchAndReplace\SearchAndReplace\bin\Debug\SearchAndReplace.exe
+c:\users\fabiocarballo\documents\visual studio 2012\Projects\SearchAndReplace\SearchAndReplace\bin\Debug\SearchAndReplace.pdb
+c:\users\fabiocarballo\documents\visual studio 2012\Projects\SearchAndReplace\SearchAndReplace\obj\Debug\SearchAndReplace.exe
+c:\users\fabiocarballo\documents\visual studio 2012\Projects\SearchAndReplace\SearchAndReplace\obj\Debug\SearchAndReplace.pdb
