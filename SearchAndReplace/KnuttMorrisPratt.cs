@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace KMP
+namespace SearchAndReplaceNS
 {
     // This is an implementation of the Knutt Morris Pratt algorithm
     // to search for a pattern on a text string

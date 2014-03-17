@@ -54,9 +54,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\KnuttMorrisPratt\KnuttMorrisPratt.csproj">
-      <Project>{e2d37c02-1207-4fe6-a0e2-539a36567ca2}</Project>
-      <Name>KnuttMorrisPratt</Name>
+    <ProjectReference Include="..\SearchAndReplace\SearchAndReplace.csproj">
+      <Project>{f04c94ce-7b5e-4944-aa98-2e72509f8447}</Project>
+      <Name>SearchAndReplace</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>

@@ -1,8 +1,0 @@
-c:\users\fabiocarballo\documents\visual studio 2012\Projects\KnuttMorrisPratt\KMP\bin\Debug\KMP.exe.config
-c:\users\fabiocarballo\documents\visual studio 2012\Projects\KnuttMorrisPratt\KMP\bin\Debug\KMP.exe
-c:\users\fabiocarballo\documents\visual studio 2012\Projects\KnuttMorrisPratt\KMP\bin\Debug\KMP.pdb
-c:\users\fabiocarballo\documents\visual studio 2012\Projects\KnuttMorrisPratt\KMP\bin\Debug\KnuttMorrisPratt.dll
-c:\users\fabiocarballo\documents\visual studio 2012\Projects\KnuttMorrisPratt\KMP\bin\Debug\KnuttMorrisPratt.pdb
-c:\users\fabiocarballo\documents\visual studio 2012\Projects\KnuttMorrisPratt\KMP\obj\Debug\KMP.csprojResolveAssemblyReference.cache
-c:\users\fabiocarballo\documents\visual studio 2012\Projects\KnuttMorrisPratt\KMP\obj\Debug\KMP.exe
-c:\users\fabiocarballo\documents\visual studio 2012\Projects\KnuttMorrisPratt\KMP\obj\Debug\KMP.pdb
