@@ -1,7 +1,0 @@
-C:\Users\fabiocarballo\Documents\Visual Studio 2012\Projects\KnuttMorrisPratt\SearchAndReplaceUnitTests\obj\Debug\SearchAndReplaceUnitTests.csprojResolveAssemblyReference.cache
-C:\Users\fabiocarballo\Documents\Visual Studio 2012\Projects\KnuttMorrisPratt\SearchAndReplaceUnitTests\bin\Debug\SearchAndReplaceUnitTests.dll
-C:\Users\fabiocarballo\Documents\Visual Studio 2012\Projects\KnuttMorrisPratt\SearchAndReplaceUnitTests\bin\Debug\SearchAndReplaceUnitTests.pdb
-C:\Users\fabiocarballo\Documents\Visual Studio 2012\Projects\KnuttMorrisPratt\SearchAndReplaceUnitTests\bin\Debug\SearchAndReplace.exe
-C:\Users\fabiocarballo\Documents\Visual Studio 2012\Projects\KnuttMorrisPratt\SearchAndReplaceUnitTests\bin\Debug\SearchAndReplace.pdb
-C:\Users\fabiocarballo\Documents\Visual Studio 2012\Projects\KnuttMorrisPratt\SearchAndReplaceUnitTests\obj\Debug\SearchAndReplaceUnitTests.dll
-C:\Users\fabiocarballo\Documents\Visual Studio 2012\Projects\KnuttMorrisPratt\SearchAndReplaceUnitTests\obj\Debug\SearchAndReplaceUnitTests.pdb
